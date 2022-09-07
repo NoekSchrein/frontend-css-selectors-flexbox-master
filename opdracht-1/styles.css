@@ -3,14 +3,31 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
-
+/* opdracht 1*/
 .one{
     display: flex;
     flex-direction: column;
     justify-content: end;
 }
 
+/*opdracht 2*/
 .two {
     display: flex;
     justify-content: space-between;
 }
+
+/*opdracht 3*/
+.three{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 50px;
+}
+
