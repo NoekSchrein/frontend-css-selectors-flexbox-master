@@ -3,3 +3,14 @@
 ========================================================= */
 
 /* Schrijf hier  jouw CSS! */
+
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.two {
+    display: flex;
+    justify-content: space-between;
+}
