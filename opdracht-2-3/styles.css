@@ -1,20 +1,35 @@
 body{
     background-color: #F2F3D9;
-
 }
-div{
+
+.header{
     font-family: 'Nobile', sans-serif;
     font-weight: bold;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 10px;
+    padding: 0px;
 }
 
-section{
-    background-color: #C16E70;
+.box{
     color: #030027;
     font-family: 'Nobile', sans-serif;
     font-style: normal;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    background-color: #C16E70;
+    margin: 15px;
+    padding: 15px;
+    flex-basis: 280px;
+    height: 350px;
+    flex-shrink: 1;
+    flex-grow: 0;
+}
+
+main{
+    display: flex;
+    justify-content: center;
 }
