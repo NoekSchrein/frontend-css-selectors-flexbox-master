@@ -40,26 +40,6 @@ form{
 }
 
 /*opdracht 5*/
-/*.five{
-    display: flex;
-    flex-direction: row;
-}
-
-.article-one{
-    display: flex;
-    flex-direction: column;
-}
-
-.article-two{
-    display: flex;
-    flex-direction: column;
-}
-
-.article-three{
-    display: flex;
-    flex-wrap: wrap;
-}*/
-
 .five{
     display: flex;
     flex-direction: row;
